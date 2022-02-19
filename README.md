@@ -18,9 +18,12 @@ My name is Taylor Polli Overturf. I am a former educator with a Master’s Degre
 Especially if you have any **punny names** to add to my collection... <br />
 My last name is **Overturf** and throughout my life I have been compiling a list of different personas: 
 - **rolloverturf**: an aspiring dog trainer,
-- **appleturnoverturf**: a contestant on *The Great British Bake Off*, 
+- **apple turnoverturf**: a contestant on *The Great British Bake Off*, 
 - **passoverturf**: a matzah-loving girl celebrating her favorite Jewish holiday,
 - **voiceoverturf**: a voice actor narrating your life story, 
+- **layoverturf**: a frequent flier often stuck in between destinations, 
+- **four-leaf cloverturf**: a lucky person about to find a pot of gold,
+- **popoverturf**: that one friend who always arrives unannounced,
 - **stackoverturf**: a web developer deeply dedicated to StackOverflow.
 
 📫 How to reach me:
