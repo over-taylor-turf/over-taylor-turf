@@ -3,7 +3,7 @@ My name is Taylor Polli Overturf. I am a former educator with a Master’s Degre
 
 ## Four Fun Facts about Taylor 
 1. 😳 **My biggest fear**: accidentally eating one of those silica gel packets. 
-2. 💻 **My current coding project**: a website that preserves and teaches Yiddish slang to a modern audience. 
+2. 💻 **My current coding project**: a database for a website that preserves and teaches Yiddish slang to a modern audience. 
 3. 🐶 **My best friend**: a pitbull mix named Uma Thurman.
 4. ⛳️ **My favorite sport**: I am the only person I know who genuinely loves watching golf... 
 
