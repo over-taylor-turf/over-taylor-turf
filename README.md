@@ -38,7 +38,7 @@ My last name is **Overturf** and throughout my life I have been compiling a list
 ## Coding Projects
 👏 Check out some of my coding projects.
 
-### ✨ My Bubbe Says: 
+### ✨ My Bubbe Says 
 Visit the **[live site](https://www.mybubbesays.com/#/)** and the **[github](https://github.com/over-taylor-turf/bubbe-says)** repository.<br /> 
 ⬆️ *My Bubbe Says* preserves cultural vocabulary for individuals who grew up in the American Jewish community, or for those who just watched a lot of Seinfeld at a young age! For Jewish Americans, the official teachers of the Yiddish language are often our grandmothers, bubbes, or grandfathers, zaides. *My Bubbe Says* constructs and keeps communal knowledge of words that might be otherwise lost or forgotten. 🗣
 
@@ -50,6 +50,6 @@ Visit the **[live site](https://www.medpramin.com/#/)** and the **[github](https
 Visit the **[live site](https://www.hexanderson.com/#/)** and the **[github](https://github.com/over-taylor-turf/hex-anderson)** repository.<br />
 ⬆️ *Hex Anderson* is a hex-code palette generator that uses Wes Anderson's design aesthetic and films as inspiration for unique color combinations. 🎨
 
-### ✨ Portfolio Website
+### ✨ Portfolio Site
 Visit the **[live site](https://www.stackoverturf.com/)** and the **[github](https://github.com/over-taylor-turf/over-taylor-turf.github.io)** repository.<br />
 ⬆️ *Stackoverturf* is my first, ever website as a developer! The code has been kept largely untouched, besides updating some links and photos in the 'projects' section. There are many, many improvements that could be made, but I am leaving it as a reminder of how far I've come as a developer and how far I will go. 🚀
