@@ -32,7 +32,7 @@ Especially if you have any **punny names** to add to my collection... My last na
 - Connect with me on **[LinkedIn](https://www.linkedin.com/in/tayloroverturf/)**. 
 
 📝 **Personal Details**: 
-- I am currently locatlive in **Seattle, WA**. 
+- I am currently located in **Seattle, WA**. 
 - My name is pronounced "Tay-lur Poh-lee Oh-vur-turf". 
 - My pronouns are **She / Her / Hers**. 
 
