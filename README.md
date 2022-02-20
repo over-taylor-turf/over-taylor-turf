@@ -8,8 +8,8 @@ My name is **Taylor Polli Overturf**. I am a former educator with a Master’s D
 4. ⛳️ **My favorite sport**: I am the only person I know who genuinely loves watching golf... 
 
 ## Taylor's Tech Stack
-- 💪 **I am confident in**: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, Python, Django
-- 🤔 **I am currently learning**: TypeScript, Cardinal
+- 💪 **I am confident in**: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, Python, Django.
+- 🤔 **I am currently learning**: TypeScript, Cardinal, React Native. 
 
 ## Let's Connect! 
 👯 I would love to expand my coding community and learn about other folks' coding journeys.
@@ -20,7 +20,7 @@ Especially if you have any **punny names** to add to my collection... My last na
 - **rolloverturf**: an aspiring dog trainer,
 - **apple turnoverturf**: a contestant on *The Great British Bake Off*, 
 - **passoverturf**: a matzah-loving girl celebrating her favorite Jewish holiday,
-- **voiceoverturf**: a voice actor narrating your life story, 
+- **voiceoverturf**: a voice actor narrating her own life story as she lives it, 
 - **layoverturf**: a frequent flier often stuck in between destinations, 
 - **four-leaf cloverturf**: a lucky person about to find a pot of gold,
 - **popoverturf**: that one friend who always arrives unannounced,
