@@ -14,7 +14,7 @@ My name is **Taylor Polli Overturf**. I am a former educator with a Master’s D
 ## Let's Connect! 
 👯 I would love to expand my developer community and learn about other folks' coding journeys.
 
-👋 Plese, don't hesitate to reach out to me and introduce yourself! <br />
+👋 Please, don't hesitate to reach out and introduce yourself! <br />
 
 Especially if you have any **punny names** to add to my collection... My last name is **Overturf** and throughout my life I have been compiling a list of different personas: 
 - **rolloverturf**: an aspiring dog trainer,
