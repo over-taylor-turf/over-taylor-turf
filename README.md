@@ -12,7 +12,7 @@ My name is **Taylor Polli Overturf**. I am a former educator with a Master’s D
 - 🤔 **I am currently learning**: TypeScript, Cardinal, React Native. 
 
 ## Let's Connect! 
-👯 I would love to expand my coding community and learn about other folks' coding journeys.
+👯 I would love to expand my developer community and learn about other folks' coding journeys.
 
 👋 Plese, don't hesitate to reach out to me and introduce yourself! <br />
 
