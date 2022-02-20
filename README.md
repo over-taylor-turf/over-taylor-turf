@@ -29,7 +29,7 @@ Especially if you have any **punny names** to add to my collection... My last na
 📫 **How to reach me**:
 - Send a message to me directly at **stackoverturf@gmail.com**!
 - Check out my **[dev.to](https://dev.to/stackoverturf)** blog designed to share knowledge with fellow junior dev's and life-long learners.  
-- Connect with me on **[LinkedIn](https://www.linkedin.com/in/tayloroverturf/)**, and we can inevitably talk about our love-hate realtionship with LinkedIn. 
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/tayloroverturf/)**. 
 
 📝 **Personal Details**: 
 - I am currently locatlive in **Seattle, WA**. 
