@@ -37,7 +37,7 @@ Especially if you have any **punny names** to add to my collection... My last na
 - My pronouns are **She / Her / Hers**. 
 
 ## Coding Projects
-👏 Check out some of my coding projects.
+👏 Check out some of my current, and past, coding projects.
 
 ### ✨ My Bubbe Says 
 Visit the **[live site](https://www.mybubbesays.com/#/)** and the **[github](https://github.com/over-taylor-turf/bubbe-says)** repository.<br /> 
