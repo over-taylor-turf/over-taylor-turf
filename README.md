@@ -7,10 +7,6 @@ My name is **Taylor Polli Overturf**. I am a former educator with a Master’s D
 3. 🐶 **My best friend**: a pitbull mix named Uma Thurman.
 4. ⛳️ **My favorite sport**: I am the only person I know who genuinely loves watching golf... 
 
-## Taylor's Tech Stack
-- 💪 **I am confident in**: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, Python, Django.
-- 🤔 **I am currently learning**: TypeScript, Cardinal, React Native. 
-
 ## Let's Connect! 
 👯 I would love to expand my developer community and learn about other folks' coding journeys.
 
@@ -35,22 +31,3 @@ Especially if you have any **punny names** to add to my collection... My last na
 - I am currently located in **Seattle, WA**. 
 - My name is pronounced "Tay-lur Poh-lee Oh-vur-turf". 
 - My pronouns are **She / Her / Hers**. 
-
-## Coding Projects
-👏 Check out some of my current, and past, coding projects.
-
-### ✨ My Bubbe Says 
-Visit the **[live site](https://www.mybubbesays.com/#/)** and the **[github](https://github.com/over-taylor-turf/bubbe-says)** repository.<br /> 
-⬆️ *My Bubbe Says* preserves cultural vocabulary for individuals who grew up in the American Jewish community, or for those who just watched a lot of Seinfeld at a young age! For Jewish Americans, the official teachers of the Yiddish language are often our grandmothers, bubbes, or grandfathers, zaides. *My Bubbe Says* constructs and keeps communal knowledge of words that might be otherwise lost or forgotten. 🗣
-
-### ✨ Medpramin
-Visit the **[live site](https://www.medpramin.com/#/)** and the **[github](https://github.com/over-taylor-turf/fake-drug-names)** repository.<br />
-⬆️ *Medpramin* will randomize a drug name for you based on my own unique data set and then compare it to a real drug name provided by a medical API. Good luck guessing which one is real and which one is fake! Even the creator herself gets tricked. 🤣
-
-### ✨ Hex Anderson 
-Visit the **[live site](https://www.hexanderson.com/#/)** and the **[github](https://github.com/over-taylor-turf/hex-anderson)** repository.<br />
-⬆️ *Hex Anderson* is a hex-code palette generator that uses Wes Anderson's design aesthetic and films as inspiration for unique color combinations. 🎨
-
-### ✨ Portfolio Site
-Visit the **[live site](https://www.stackoverturf.com/)** and the **[github](https://github.com/over-taylor-turf/over-taylor-turf.github.io)** repository.<br />
-⬆️ *Stackoverturf* is my first, ever website as a developer! The code has been kept largely untouched, besides updating some links and photos in the 'projects' section. There are many, many improvements that could be made, but I am leaving it as a reminder of how far I've come as a developer and how far I will go. 🚀
